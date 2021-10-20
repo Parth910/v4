@@ -1,15 +1,16 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Entry Management Syatem'
+cover: './EMS.png'
+github: 'https://github.com/Parth910/Entry-Management-System'
+external: 'https://github.com/Parth910/Entry-Management-System/blob/master/README.md'
 tech:
-  - React
-  - Styled Components
+  - ReactJS
+  - NodeJS
   - Express
-  - Spotify API
-  - Heroku
+  - MongoDB
+  - AWS
+  - NGINX
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+EMS is a web application to keep track of the people who visited the office. Also, include automatic check-in and checkout mails and SMS delivery system.

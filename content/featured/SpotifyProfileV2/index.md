@@ -1,16 +1,14 @@
 ---
-date: '3'
-title: 'Build a Spotify Connected App'
-cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+date: '4'
+title: 'Live Chat App'
+cover: './chatApp.png'
+github: 'https://github.com/Parth910/chatApp'
+external: 'https://chat-app-9.netlify.app/'
 tech:
-  - React
-  - Express
-  - Spotify API
-  - Styled Components
+  - ReactJS
+  - ExpressJS
+  - Socket.io
+  - NodeJS
 ---
 
-Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
-
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.
+Live-Chat app is real time chatting application in which person can join room to chat with group.

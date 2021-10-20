@@ -1,13 +1,12 @@
 ---
 date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
+title: 'Full-Stack Engineer Intern'
+company: 'Paathshala '
 location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+range: 'Summer 2019'
+url: '#'
 ---
 
-- Developed and shipped highly interactive web applications for Apple Music using Ember.js
-- Built and shipped the Apple Music Extension within Facebook Messenger leveraging third-party and internal APIs
-- Architected and implemented the front-end of Apple Music's embeddable web player widget, which lets users log in and listen to full songs in the browser
-- Contributed extensively to MusicKit.js, a JavaScript framework that allows developers to add an Apple Music player to their web apps
+- Worked with a team of three developers to build a education website and ed-tech platform for Paathshala education, an IIT-JEE coaching institute.
+- I have developed an online education web app using MEAN stack, it includes online video lectures, online quizzes, admin and user dashboards, authentication, payment system, and coupon generation system(offers).
+- Tech Stack : ReactJS, NodeJS and MongoDB.
