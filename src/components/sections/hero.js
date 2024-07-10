@@ -64,11 +64,14 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building web based pruducts. Currently, I’m focused
-        on building Cloud based products suite for Video Streaming, Dynamic Ad-Insertion, Content
-        Monetization &amp; Syndication at{' '}
-        <a href="https://vidgyor.com/" target="_blank" rel="noreferrer">
-          Vidgyor
+        I’m a software engineer specializing in building web-based products. Currently, I’m focused 
+    on developing AI-driven healthcare solutions that provide personalized health insights to enhance diagnostics.
+      Utilizing advanced biofeedback technology and AI at{' '}
+        <a href="mindwelllabs.com" target="_blank" rel="noreferrer">
+          Mindwell Labs
+        </a> building{' '}
+      <a href="getpeak.ai" target="_blank" rel="noreferrer">
+          Peak.ai
         </a>
         .
       </p>
