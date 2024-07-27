@@ -1,5 +1,5 @@
 ---
-date: '2021-06-01'
+date: '2019-10-01'
 title: 'Software Engineer'
 company: 'Take10Trivia'
 location: 'Remote'

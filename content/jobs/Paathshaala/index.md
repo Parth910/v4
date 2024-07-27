@@ -1,5 +1,5 @@
 ---
-date: '2017-12-21'
+date: '2019-05-21'
 title: 'Full-Stack Engineer Intern'
 company: 'Paathshala '
 location: 'Cupertino, CA'

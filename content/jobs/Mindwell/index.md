@@ -1,5 +1,5 @@
 ---
-date: '2017-12-21'
+date: '2023-01-01'
 title: 'Software Engineer'
 company: 'Mindwell Labs '
 location: 'Remote'

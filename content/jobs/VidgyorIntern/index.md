@@ -1,5 +1,5 @@
 ---
-date: '2018-04-01'
+date: '2020-10-01'
 title: 'Frontend Engineer Intern'
 company: 'Vidgyor'
 location: 'Northeastern University'
